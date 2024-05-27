@@ -4,7 +4,7 @@ Makine Öğrenmesi Türkçe Konu Anlatım ve Kodlar bulunan kaynak
 İçindekiler 
  
 Giriş 
-1. Genel Kavramlar 
+1- [Genel Kavramlar] (https://github.com/EminYelaldi/Makine-Ogrenmesi/tree/main/1-%20Giriş),
 2. Neden Makine Öğrenmesi? 
 3. Yapay Zeka 
 4. Makine Öğrenmesinde Temel Kavramlar
